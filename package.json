@@ -1,0 +1,12 @@
+{
+  "name":"paper-detect-everyone",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "bin":"index.js",
+  "pkg": {
+    "assets": [
+      "node_modules/discord.js"
+    ]
+  }
+}
